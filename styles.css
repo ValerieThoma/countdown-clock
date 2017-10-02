@@ -1,0 +1,59 @@
+body{
+	/*background: url("convocation1.jpg") no-repeat center;
+	background-size: cover;*/
+	height: 100vh;
+	text-align: center;
+	color: #DAA520;
+	text-shadow: 1px 1px black;
+	background-color: #fcf5e8;
+}
+
+h1{
+	font-size: 40px;
+	margin: 40px 0px 0px;
+}
+a{
+	text-decoration: none;
+	color: #DAA520 !important;
+}
+
+#timer-div{
+	background: url("grad.png")/* no-repeat center*/;
+	background-size: cover;
+	height: 300px;
+	width: 100vw;
+	display: inline-block;
+	font-size: 30px;
+	margin-top: 30px;
+	color: #4f0262;
+}
+
+.time-unit, .time-unit > span{
+	display: inline-block;
+	padding: 10px;
+	background-color: #d9d9d9;
+	opacity: 0.8;
+	border-radius: 5px;
+	border: 1px solid white;
+}
+#timer-div3{
+	background: url("dc-logo.png") no-repeat center;
+	/*background-size: cover;*/
+	height: 300px;
+	width: 100vw;
+	display: inline-block;
+	font-size: 30px;
+	margin-top: 30px;
+	color: #4f0262;
+}
+#timer-div2{
+	background: url("ham.jpg") no-repeat center;
+	/*background-size: cover;*/
+	height: 300px;
+	width: 100vw;
+	display: inline-block;
+	font-size: 30px;
+	margin-top: 30px;
+	color: #4f0262;
+
+}
